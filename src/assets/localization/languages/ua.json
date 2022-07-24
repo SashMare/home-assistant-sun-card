@@ -1,0 +1,12 @@
+{
+  "Azimuth": "Азімут",
+  "Dawn": "Світанок",
+  "Dusk": "Сутінки",
+  "Elevation": "Висота",
+  "Noon": "Зеніт",
+  "Sunrise": "Схід",
+  "Sunset": "Захід",
+  "errors": {
+    "SunIntegrationNotFound": "Sun integration not found"
+  }
+}
